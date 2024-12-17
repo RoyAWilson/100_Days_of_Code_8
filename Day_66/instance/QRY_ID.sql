@@ -1,0 +1,1 @@
+SELECT * FROM cafe WHERE cafe.id == 23

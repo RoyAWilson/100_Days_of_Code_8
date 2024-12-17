@@ -1,0 +1,1 @@
+DELETE FROM cafe where cafe.id == 22

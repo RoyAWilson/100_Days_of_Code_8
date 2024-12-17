@@ -1,0 +1,1 @@
+SELECT cafe.id, cafe.location, cafe.has_sockets, cafe.has_wifi, cafe.coffee_price FROM cafe WHERE cafe.location == "Peckham"

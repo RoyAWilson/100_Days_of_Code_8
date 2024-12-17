@@ -1,0 +1,1 @@
+select cafe.name, cafe.location, cafe.has_wifi, cafe.has_wifi, cafe.has_toilet, cafe.can_take_calls, cafe.coffee_price FROM cafe
